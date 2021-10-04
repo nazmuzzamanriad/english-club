@@ -1,0 +1,21 @@
+.home-container{
+    text-align: center;
+    margin: 20px 80px
+}
+.header-title{
+    font-weight: 700;
+}
+.language-section{
+    background-color: darkcyan;
+    padding: 20px;
+    margin-top: 40px;
+    color: white;
+}
+.details{
+    font-weight: 500;
+    margin-top: 20px;
+}
+.fee{
+    color:crimson;
+    font-weight: 700;
+}

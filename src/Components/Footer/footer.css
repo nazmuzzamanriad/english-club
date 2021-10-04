@@ -1,0 +1,15 @@
+.footer-section{
+    background-color: rgba(128, 128, 128, 0.76);
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 20px 80px;
+}
+.copyright-section{
+    background-color: rgba(0, 0, 0, 0.418);
+    color:black;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 20px;
+}

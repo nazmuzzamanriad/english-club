@@ -1,0 +1,14 @@
+.course-header{
+    /* background-color: darkcyan; */
+    color:darkcyan;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 20px;
+    font-size:  30px;
+    font-weight: 700;
+
+}
+.course-container{
+    margin-left: 80px;
+    margin-right: 80px
+}

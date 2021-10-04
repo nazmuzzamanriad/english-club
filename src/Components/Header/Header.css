@@ -1,0 +1,13 @@
+.header{
+    background-color: rgba(128, 128, 128, 0.76);
+    text-align: center;
+    margin: 20px 80px;
+    padding: 20px;
+}
+.navlink{
+    font-size: 24px;
+    font-weight: 700;
+    padding: 20px;
+    text-decoration: none;
+    color: white
+}

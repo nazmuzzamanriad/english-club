@@ -1,0 +1,24 @@
+.about-container{
+    margin: 40px 80px;
+}
+.about-heading{
+    display: flex;
+    
+}
+.about-details{
+    margin-right: 40px;
+    
+}
+.about-counter{
+    background-color: cadetblue;
+    margin-top: 20px;
+    padding-top: 10px;
+    display: flex;
+    text-align: center;
+
+}
+.content{
+
+    padding: 5px 50px;
+}
+

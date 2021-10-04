@@ -1,0 +1,11 @@
+.instrucror-img{
+    width: 300px;
+    height: 350px;
+    padding-top: 20px;
+    padding-left: 30px;
+
+}
+.instructor{
+    border:2px  solid darkcyan;
+    border-radius: 20px;
+}
